@@ -1,0 +1,7 @@
+# Keep Linux line endings for files that run inside the container.
+*.sh  text eol=lf
+*.sql text eol=lf
+*.py  text eol=lf
+
+*.html linguist-generated=true
+*.geojson linguist-generated=true

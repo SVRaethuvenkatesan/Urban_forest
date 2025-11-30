@@ -1,0 +1,18 @@
+# Credentials
+.env
+
+# Source data is downloaded, not versioned (see README, Data sources)
+data/*.csv
+data/hvi/*
+!data/hvi/heat_vulnerability_index_2018_column_names.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Local agent tooling
+.agents/
+skills-lock.json
+.claude/
+CLAUDE.md
