@@ -1,0 +1,103 @@
+precinct,renewal_window,tree_count,tree_share,replacement_cost_aud,imputed_cost_share,avg_hvi_score
+Carlton,Under 10 years,13,0.003,19400.0,0.0825,2.67
+Carlton,11 to 20 years,272,0.0623,633200.0,0.0521,2.84
+Carlton,21 to 30 years,1482,0.3393,3233800.0,0.0461,2.8
+Carlton,31 to 40 years,1327,0.3038,1954200.0,0.1212,2.73
+Carlton,Over 40 years,766,0.1754,838400.0,0.5844,2.77
+Carlton,Not assessed,508,0.1163,492200.0,0.3722,2.32
+Carlton North,Under 10 years,22,0.0095,60000.0,0.06,1.0
+Carlton North,11 to 20 years,211,0.0908,525400.0,0.3643,1.01
+Carlton North,21 to 30 years,696,0.2996,1824800.0,0.1425,1.0
+Carlton North,31 to 40 years,619,0.2665,1170200.0,0.229,1.01
+Carlton North,Over 40 years,526,0.2264,676400.0,0.1248,1.01
+Carlton North,Not assessed,249,0.1072,172600.0,0.7961,1.02
+Central City,Under 10 years,0,0.0,0.0,,
+Central City,11 to 20 years,0,0.0,0.0,,
+Central City,21 to 30 years,0,0.0,0.0,,
+Central City,31 to 40 years,0,0.0,0.0,,
+Central City,Over 40 years,26,1.0,10400.0,1.0,2.46
+Central City,Not assessed,0,0.0,0.0,,
+Docklands,Under 10 years,91,0.0156,104400.0,0.364,2.31
+Docklands,11 to 20 years,361,0.0621,407400.0,0.2145,1.59
+Docklands,21 to 30 years,1387,0.2385,1572000.0,0.1658,1.75
+Docklands,31 to 40 years,2454,0.4219,2252800.0,0.2827,1.73
+Docklands,Over 40 years,642,0.1104,622000.0,0.2399,1.93
+Docklands,Not assessed,881,0.1515,697200.0,0.389,1.7
+East Melbourne,Under 10 years,7,0.0016,9400.0,0.1277,1.0
+East Melbourne,11 to 20 years,326,0.0723,827600.0,0.2738,1.18
+East Melbourne,21 to 30 years,1411,0.3131,3219400.0,0.319,1.16
+East Melbourne,31 to 40 years,1039,0.2306,1772400.0,0.4792,1.19
+East Melbourne,Over 40 years,386,0.0857,377200.0,0.5117,1.05
+East Melbourne,Not assessed,1337,0.2967,1664000.0,0.7904,1.21
+Fishermans Bend,Under 10 years,0,0.0,0.0,,
+Fishermans Bend,11 to 20 years,0,0.0,0.0,,
+Fishermans Bend,21 to 30 years,0,0.0,0.0,,
+Fishermans Bend,31 to 40 years,0,0.0,0.0,,
+Fishermans Bend,Over 40 years,61,1.0,24400.0,1.0,2.0
+Fishermans Bend,Not assessed,0,0.0,0.0,,
+Flemington,Under 10 years,7,0.0137,6000.0,0.8,1.0
+Flemington,11 to 20 years,33,0.0647,38400.0,0.2188,1.0
+Flemington,21 to 30 years,92,0.1804,117200.0,0.2389,1.0
+Flemington,31 to 40 years,167,0.3275,219800.0,0.4959,1.0
+Flemington,Over 40 years,143,0.2804,120400.0,0.8704,1.0
+Flemington,Not assessed,68,0.1333,30400.0,1.0,1.0
+Kensington,Under 10 years,105,0.0139,174000.0,0.2931,1.45
+Kensington,11 to 20 years,534,0.0707,765000.0,0.2983,1.76
+Kensington,21 to 30 years,2553,0.3379,3895200.0,0.1966,2.09
+Kensington,31 to 40 years,1985,0.2627,2851600.0,0.3028,1.82
+Kensington,Over 40 years,1696,0.2245,1818400.0,0.5275,1.64
+Kensington,Not assessed,682,0.0903,335400.0,0.8891,1.75
+Melbourne,Under 10 years,37,0.0041,52400.0,0.4198,1.3
+Melbourne,11 to 20 years,390,0.043,842200.0,0.2216,1.39
+Melbourne,21 to 30 years,3784,0.4175,7186400.0,0.1933,1.44
+Melbourne,31 to 40 years,1926,0.2125,3092800.0,0.259,1.63
+Melbourne,Over 40 years,1860,0.2052,2154400.0,0.4188,1.46
+Melbourne,Not assessed,1066,0.1176,1265600.0,0.5766,1.51
+North And West Melbourne,Under 10 years,0,0.0,0.0,,
+North And West Melbourne,11 to 20 years,0,0.0,0.0,,
+North And West Melbourne,21 to 30 years,0,0.0,0.0,,
+North And West Melbourne,31 to 40 years,0,0.0,0.0,,
+North And West Melbourne,Over 40 years,113,1.0,46000.0,1.0,1.84
+North And West Melbourne,Not assessed,0,0.0,0.0,,
+North Melbourne,Under 10 years,13,0.0028,24200.0,0.0496,2.69
+North Melbourne,11 to 20 years,233,0.0494,405200.0,0.3889,2.69
+North Melbourne,21 to 30 years,1947,0.4129,3479000.0,0.2106,2.77
+North Melbourne,31 to 40 years,1073,0.2276,1571600.0,0.2608,2.52
+North Melbourne,Over 40 years,853,0.1809,897800.0,0.4576,2.71
+North Melbourne,Not assessed,596,0.1264,499000.0,0.8577,2.76
+Parkville,Under 10 years,263,0.0092,281000.0,0.6221,1.08
+Parkville,11 to 20 years,1449,0.0507,1662000.0,0.542,1.25
+Parkville,21 to 30 years,4784,0.1675,6439600.0,0.4242,1.29
+Parkville,31 to 40 years,2901,0.1016,3456400.0,0.5025,1.19
+Parkville,Over 40 years,9327,0.3265,9279000.0,0.6483,1.2
+Parkville,Not assessed,9843,0.3446,8894600.0,0.9794,1.23
+Port Melbourne,Under 10 years,17,0.0065,18200.0,0.3956,2.0
+Port Melbourne,11 to 20 years,49,0.0187,52000.0,0.3615,2.0
+Port Melbourne,21 to 30 years,246,0.0938,337200.0,0.2372,2.0
+Port Melbourne,31 to 40 years,470,0.1792,690800.0,0.2577,2.0
+Port Melbourne,Over 40 years,1033,0.3938,921800.0,0.6485,2.0
+Port Melbourne,Not assessed,808,0.308,546000.0,0.8912,2.0
+Princes Hill,Under 10 years,0,0.0,0.0,,
+Princes Hill,11 to 20 years,9,0.1385,25200.0,0.7143,2.0
+Princes Hill,21 to 30 years,28,0.4308,69600.0,0.6466,2.0
+Princes Hill,31 to 40 years,21,0.3231,41400.0,0.2464,1.95
+Princes Hill,Over 40 years,7,0.1077,19200.0,0.0625,2.0
+Princes Hill,Not assessed,0,0.0,0.0,,
+Southbank,Under 10 years,7,0.003,6800.0,0.1765,1.67
+Southbank,11 to 20 years,37,0.0158,45800.0,0.1048,2.18
+Southbank,21 to 30 years,356,0.1523,518200.0,0.0942,1.9
+Southbank,31 to 40 years,545,0.2331,692000.0,0.2783,1.93
+Southbank,Over 40 years,1205,0.5154,1369400.0,0.4281,2.03
+Southbank,Not assessed,188,0.0804,104000.0,0.9654,2.08
+South Yarra,Under 10 years,17,0.0065,21800.0,0.0917,1.06
+South Yarra,11 to 20 years,211,0.0802,471600.0,0.0322,1.02
+South Yarra,21 to 30 years,1061,0.4033,2294600.0,0.0581,1.01
+South Yarra,31 to 40 years,511,0.1942,951200.0,0.0603,1.02
+South Yarra,Over 40 years,585,0.2223,672800.0,0.1849,1.01
+South Yarra,Not assessed,246,0.0935,208800.0,0.3649,1.0
+West Melbourne,Under 10 years,64,0.0095,70200.0,0.7635,1.13
+West Melbourne,11 to 20 years,167,0.0247,263800.0,0.4026,1.75
+West Melbourne,21 to 30 years,1288,0.1906,2131400.0,0.2249,1.84
+West Melbourne,31 to 40 years,946,0.14,1284600.0,0.4266,1.78
+West Melbourne,Over 40 years,3356,0.4967,4152600.0,0.838,1.19
+West Melbourne,Not assessed,935,0.1384,892400.0,0.8702,1.38

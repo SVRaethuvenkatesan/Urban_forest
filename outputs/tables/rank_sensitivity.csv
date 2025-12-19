@@ -1,0 +1,113 @@
+precinct,scenario,cliff_index,cliff_rank
+East Melbourne,Base case,53.8,8
+Carlton North,Base case,69.2,3
+Melbourne,Base case,38.5,9
+Kensington,Base case,79.5,1
+South Yarra,Base case,56.4,5
+Port Melbourne,Base case,35.9,10
+North And West Melbourne,Base case,20.5,14
+Parkville,Base case,56.4,6
+West Melbourne,Base case,30.8,13
+Carlton,Base case,74.4,2
+Southbank,Base case,33.3,11
+Flemington,Base case,33.3,11
+North Melbourne,Base case,61.5,4
+Docklands,Base case,56.4,7
+East Melbourne,Heat weighted double,46.2,8
+Carlton North,Heat weighted double,53.8,5
+Melbourne,Heat weighted double,40.4,11
+Kensington,Heat weighted double,76.9,2
+South Yarra,Heat weighted double,46.2,8
+Port Melbourne,Heat weighted double,48.1,7
+North And West Melbourne,Heat weighted double,30.8,13
+Parkville,Heat weighted double,50.0,6
+West Melbourne,Heat weighted double,32.7,12
+Carlton,Heat weighted double,80.8,1
+Southbank,Heat weighted double,44.2,10
+Flemington,Heat weighted double,25.0,14
+North Melbourne,Heat weighted double,69.2,3
+Docklands,Heat weighted double,55.8,4
+East Melbourne,Cost weighted double,59.6,5
+Carlton North,Cost weighted double,76.9,2
+Melbourne,Cost weighted double,38.5,9
+Kensington,Cost weighted double,80.8,1
+South Yarra,Cost weighted double,57.7,7
+Port Melbourne,Cost weighted double,28.8,13
+North And West Melbourne,Cost weighted double,15.4,14
+Parkville,Cost weighted double,65.4,4
+West Melbourne,Cost weighted double,30.8,10
+Carlton,Cost weighted double,73.1,3
+Southbank,Cost weighted double,28.8,12
+Flemington,Cost weighted double,30.8,10
+North Melbourne,Cost weighted double,59.6,6
+Docklands,Cost weighted double,53.8,8
+East Melbourne,Share weighted double,55.8,6
+Carlton North,Share weighted double,76.9,2
+Melbourne,Share weighted double,36.5,10
+Kensington,Share weighted double,80.8,1
+South Yarra,Share weighted double,65.4,4
+Port Melbourne,Share weighted double,30.8,11
+North And West Melbourne,Share weighted double,15.4,14
+Parkville,Share weighted double,53.8,8
+West Melbourne,Share weighted double,28.8,12
+Carlton,Share weighted double,69.2,3
+Southbank,Share weighted double,26.9,13
+Flemington,Share weighted double,44.2,9
+North Melbourne,Share weighted double,55.8,6
+Docklands,Share weighted double,59.6,5
+East Melbourne,Heat excluded,69.2,4
+Carlton North,Heat excluded,100.0,1
+Melbourne,Heat excluded,34.6,10
+Kensington,Heat excluded,84.6,2
+South Yarra,Heat excluded,76.9,3
+Port Melbourne,Heat excluded,11.5,12
+North And West Melbourne,Heat excluded,0.0,14
+Parkville,Heat excluded,69.2,4
+West Melbourne,Heat excluded,26.9,11
+Carlton,Heat excluded,61.5,6
+Southbank,Heat excluded,11.5,12
+Flemington,Heat excluded,50.0,8
+North Melbourne,Heat excluded,46.2,9
+Docklands,Heat excluded,57.7,7
+East Melbourne,Near term 10 years,12.8,14
+Carlton North,Near term 10 years,53.8,8
+Melbourne,Near term 10 years,41.0,9
+Kensington,Near term 10 years,84.6,1
+South Yarra,Near term 10 years,38.5,11
+Port Melbourne,Near term 10 years,56.4,6
+North And West Melbourne,Near term 10 years,20.5,13
+Parkville,Near term 10 years,64.1,3
+West Melbourne,Near term 10 years,61.5,4
+Carlton,Near term 10 years,56.4,6
+Southbank,Near term 10 years,41.0,9
+Flemington,Near term 10 years,35.9,12
+North Melbourne,Near term 10 years,56.4,5
+Docklands,Near term 10 years,76.9,2
+East Melbourne,Measured DBH only,53.8,7
+Carlton North,Measured DBH only,69.2,3
+Melbourne,Measured DBH only,38.5,9
+Kensington,Measured DBH only,82.1,1
+South Yarra,Measured DBH only,56.4,5
+Port Melbourne,Measured DBH only,35.9,11
+North And West Melbourne,Measured DBH only,20.5,14
+Parkville,Measured DBH only,53.8,7
+West Melbourne,Measured DBH only,30.8,12
+Carlton,Measured DBH only,74.4,2
+Southbank,Measured DBH only,35.9,10
+Flemington,Measured DBH only,30.8,12
+North Melbourne,Measured DBH only,61.5,4
+Docklands,Measured DBH only,56.4,6
+East Melbourne,Flat cost per tree,53.8,7
+Carlton North,Flat cost per tree,64.1,3
+Melbourne,Flat cost per tree,35.9,9
+Kensington,Flat cost per tree,82.1,1
+South Yarra,Flat cost per tree,53.8,7
+Port Melbourne,Flat cost per tree,35.9,10
+North And West Melbourne,Flat cost per tree,20.5,14
+Parkville,Flat cost per tree,59.0,6
+West Melbourne,Flat cost per tree,33.3,11
+Carlton,Flat cost per tree,66.7,2
+Southbank,Flat cost per tree,33.3,11
+Flemington,Flat cost per tree,33.3,11
+North Melbourne,Flat cost per tree,64.1,3
+Docklands,Flat cost per tree,64.1,3

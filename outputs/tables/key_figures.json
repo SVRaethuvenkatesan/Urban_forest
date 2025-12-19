@@ -1,0 +1,75 @@
+{
+  "trees_in_scope": 82036,
+  "near_term_trees": 4945,
+  "near_term_cost_aud": 7812600,
+  "not_assessed_trees": 17407,
+  "not_assessed_cost_aud": 15802200,
+  "imputed_dbh_trees": 44862,
+  "levelled_budget_aud_per_year": 1653320,
+  "peak_reactive_aud_per_year": 3631840,
+  "near_term_reactive_aud_20_years": 7812600,
+  "near_term_micro_cliffs": 111,
+  "near_term_trees_in_micro_cliffs": 1600,
+  "top_precincts": [
+    {
+      "rank": 1,
+      "precinct": "Kensington",
+      "cliff_index": 79.5,
+      "near_term_cost_aud": 939000,
+      "near_term_share": 0.0846,
+      "avg_hvi_score": 1.85
+    },
+    {
+      "rank": 2,
+      "precinct": "Carlton",
+      "cliff_index": 74.4,
+      "near_term_cost_aud": 652600,
+      "near_term_share": 0.0652,
+      "avg_hvi_score": 2.71
+    },
+    {
+      "rank": 3,
+      "precinct": "Carlton North",
+      "cliff_index": 69.2,
+      "near_term_cost_aud": 585400,
+      "near_term_share": 0.1003,
+      "avg_hvi_score": 1.01
+    },
+    {
+      "rank": 4,
+      "precinct": "North Melbourne",
+      "cliff_index": 61.5,
+      "near_term_cost_aud": 429400,
+      "near_term_share": 0.0522,
+      "avg_hvi_score": 2.7
+    },
+    {
+      "rank": 5,
+      "precinct": "South Yarra",
+      "cliff_index": 56.4,
+      "near_term_cost_aud": 493400,
+      "near_term_share": 0.0867,
+      "avg_hvi_score": 1.01
+    }
+  ],
+  "watch_list": [
+    {
+      "precinct": "Central City",
+      "tree_count": 26,
+      "near_term_trees": 0,
+      "near_term_share": 0.0
+    },
+    {
+      "precinct": "Fishermans Bend",
+      "tree_count": 61,
+      "near_term_trees": 0,
+      "near_term_share": 0.0
+    },
+    {
+      "precinct": "Princes Hill",
+      "tree_count": 65,
+      "near_term_trees": 9,
+      "near_term_share": 0.1385
+    }
+  ]
+}

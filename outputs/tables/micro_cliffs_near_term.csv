@@ -1,0 +1,26 @@
+cluster_rank,precinct,located_in,tree_count,tree_type,dominant_genus,dominant_genus_share,replacement_cost_aud,footprint_m2,trees_per_ha,avg_hvi_score,latitude,longitude
+1,Parkville,Park,126,Gum tree (Eucalyptus),Eucalyptus,1.0,55200.0,1168.9,1077.9,1.0,-37.78971,144.950363
+2,Parkville,Park,91,She-oak (Allocasuarina),Allocasuarina,0.967,112000.0,1541.1,590.5,2.0,-37.787015,144.941349
+3,Parkville,Park,74,Wattle (Acacia),Acacia,0.865,37600.0,2946.7,251.1,1.0,-37.78634,144.94385
+4,Parkville,Park,60,Gum tree (Eucalyptus),Eucalyptus,0.7,33600.0,1519.8,394.8,1.0,-37.789573,144.94809
+5,Kensington,Park,53,Boobialla (Myoporum),Myoporum,0.906,148400.0,893.1,593.4,1.0,-37.795088,144.913933
+6,Parkville,Park,41,Gum tree (Eucalyptus),Eucalyptus,1.0,49200.0,2173.3,188.7,1.0,-37.793047,144.955343
+7,Parkville,Park,41,Wattle (Acacia),Acacia,0.829,22000.0,2831.5,144.8,1.0,-37.786929,144.944342
+8,Parkville,Park,39,Gum tree (Eucalyptus),Eucalyptus,1.0,30800.0,5180.6,75.3,1.0,-37.788999,144.945001
+9,Parkville,Park,37,Gum tree (Eucalyptus),Eucalyptus,0.973,19000.0,4064.6,91.0,1.0,-37.788239,144.944285
+10,West Melbourne,Park,34,Wilga (Geijera),Geijera,0.471,32800.0,2181.1,155.9,1.0,-37.800159,144.911941
+11,Docklands,Park,30,Spotted gum (Corymbia),Corymbia,0.867,81400.0,1686.9,177.8,1.0,-37.820281,144.944884
+12,Docklands,Park,27,Gum tree (Eucalyptus),Eucalyptus,0.519,26000.0,1016.5,265.6,3.0,-37.810253,144.935387
+13,Docklands,Park,26,She-oak (Casuarina),Casuarina,0.808,14400.0,1105.9,235.1,3.0,-37.810899,144.935405
+14,Parkville,Park,25,Gum tree (Eucalyptus),Eucalyptus,0.96,15600.0,671.1,372.5,1.0,-37.791712,144.950222
+15,Parkville,Park,24,Wattle (Acacia),Acacia,0.958,28000.0,525.9,456.4,1.0,-37.795315,144.952387
+16,Parkville,Park,23,Wattle (Acacia),Acacia,0.739,35400.0,1304.2,176.4,1.0,-37.79539,144.951592
+17,Kensington,Park,23,Wattle (Acacia),Acacia,0.304,24000.0,1414.5,162.6,1.0,-37.790883,144.924234
+18,Docklands,Park,19,Peppercorn (Schinus),Schinus,0.947,22800.0,1154.1,164.6,1.0,-37.818835,144.943833
+19,Parkville,Park,19,Gum tree (Eucalyptus),Eucalyptus,1.0,22800.0,2080.0,91.3,1.0,-37.78875,144.945986
+20,Parkville,Park,19,Bottlebrush (Callistemon),Callistemon,0.684,12400.0,813.4,233.6,1.0,-37.779728,144.957921
+21,Kensington,Park,18,Wattle (Acacia),Acacia,0.667,43000.0,1487.4,121.0,3.0,-37.796783,144.926558
+22,Parkville,Park,18,Wattle (Acacia),Acacia,0.389,16000.0,602.6,298.7,2.0,-37.78311,144.946331
+23,Parkville,Park,17,Gum tree (Eucalyptus),Eucalyptus,0.882,23600.0,1432.1,118.7,1.0,-37.785368,144.954335
+24,Parkville,Park,16,Wattle (Acacia),Acacia,0.875,25400.0,1103.8,144.9,2.0,-37.785478,144.943827
+25,Parkville,Park,16,Syzygium,Syzygium,1.0,19200.0,344.9,463.9,1.0,-37.779,144.958013
